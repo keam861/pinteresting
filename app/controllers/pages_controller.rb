@@ -7,4 +7,7 @@ class PagesController < ApplicationController
 
 	 def team
 	 end
+
+	 def signup
+	 end
  end
